@@ -1,7 +1,7 @@
 # Python_Diwali_Sales_Analysis
 Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
 
-Project Learnings
+#Project Learnings
 
 Performed data cleaning and manipulation.
 Performed exploratory data analysis (EDA) using pandas, matplotlib, and seaborn libraries.
